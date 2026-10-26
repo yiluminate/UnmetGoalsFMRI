@@ -2,7 +2,7 @@
 
 [Project overview](README.md) · [Analysis index](analysis-index.md) · [Representational analysis and statistical methods](1.RSA/methods-and-statistics.md) · [Supplementary analyses](2.Supplementary/Supplementary.md)
 
-The study was conducted at Huilongguan Brain Center, with platform support through collaborations with Peking University and Beijing University of Technology. I developed the research question and independently designed the experiment, recruited and contacted participants, coordinated on-site procedures, operated the scanner, acquired MRI data, and conducted the subsequent behavioral and neuroimaging analyses.
+The study was conducted at Huilongguan Brain Center, with platform support through collaborations with Beijing Forestry University, Peking University, and Beijing University of Technology. I developed the research question and independently designed the experiment, recruited and contacted participants, coordinated on-site procedures, operated the scanner, acquired MRI data, and conducted the subsequent behavioral and neuroimaging analyses.
 
 ![End-to-end workflow from research concept and pilot testing to fMRI acquisition and representational analysis](assets/fmri-research-workflow.png)
 
