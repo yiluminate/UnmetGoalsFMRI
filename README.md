@@ -106,6 +106,3 @@ The study was conducted at Huilongguan Brain Center, with platform support throu
 </tbody></table>
 
 
-<a href="3.Some%20correlations%20but%20not%20so%20correlated/VSN.md"><img src="assets/htp-framework.png" alt="AI House–Tree–Person research framework and personal contributions" width="680"></a>
-
-[Full framework figure, design rationale, and my contributions](3.Some%20correlations%20but%20not%20so%20correlated/VSN.md)
