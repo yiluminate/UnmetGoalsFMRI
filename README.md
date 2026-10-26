@@ -105,11 +105,6 @@ The study was conducted at Huilongguan Brain Center, with platform support throu
 <tr><td align="left">Data processing and analysis</td><td align="left">Independently processed and analyzed the behavioral and neuroimaging data, conducted sensitivity analyses, and prepared figures and tables.</td></tr>
 </tbody></table>
 
-## Some correlations but not so correlated
-
-### How does psychology inform computer vision?
-
-In an AI-based House–Tree–Person (HTP) study, I contributed the psychology component of the paper, including work on scale reliability and validity and HTP drawing annotation. I also formulated the mathematical expressions, designed the scientific figures, and contributed to manuscript writing. The framework figure brings together text and image inputs, visual-feature quantification, multimodal integration, and report generation.
 
 <a href="3.Some%20correlations%20but%20not%20so%20correlated/VSN.md"><img src="assets/htp-framework.png" alt="AI House–Tree–Person research framework and personal contributions" width="680"></a>
 
